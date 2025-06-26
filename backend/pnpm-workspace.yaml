@@ -1,0 +1,4 @@
+onlyBuiltDependencies:
+  - bufferutil
+  - sqlite3
+  - utf-8-validate

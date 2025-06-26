@@ -1,0 +1,12 @@
+onlyBuiltDependencies:
+  - '@apollo/protobufjs'
+  - bufferutil
+  - es5-ext
+  - keccak
+  - leveldown
+  - secp256k1
+  - truffle
+  - utf-8-validate
+  - web3
+  - web3-bzz
+  - web3-shh
